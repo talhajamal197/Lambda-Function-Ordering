@@ -1,0 +1,8 @@
+aws_region                  = ""
+app_env                     = ""
+handler                     = ""
+process_order_function_name = ""
+add_order_function_name     = ""
+queue_name                  = ""
+api_gateway_name            = ""
+account_id                  = ""

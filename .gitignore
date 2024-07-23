@@ -1,0 +1,8 @@
+.terraform
+terraform.tfvars
+src/lambda-functions/ProcessOrder_payload.zip
+src/lambda-functions/AddOrder_payload.zip
+.terraform.lock.hcl
+src/Pipfile.lock
+src/terraform.tfstate
+src/Pipfile

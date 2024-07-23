@@ -11,7 +11,6 @@ This project demonstrates how AWS services can seamlessly integrate using infras
 - Employs API Gateway to forward messages to the AddOrder-Lambda for order reception, which subsequently transfers the message to an SQS queue.
 - The ProcessOrder-Lambda handles message consumption from the queue and logs an associated message ID on CloudWatch logs.
 
-![system_diagram](https://github.com/akshatra/API-Gateway-SQS-Lambda/assets/47113617/4b3ed998-41d5-43d5-9a75-7418b8d01513)
 
 ### Interacting with the API Gateway Service
 
